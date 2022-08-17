@@ -21,6 +21,9 @@ A QQ-bot for Princess Connect Re:Dive based on [Nonebot](https://github.com/none
 
 **HoshinoBot:** 基于 [nonebot](https://docs.nonebot.dev/) 框架，开源、无公害、非转基因的QQ机器人。
 
+## 二次简介
+
+**HoshinoBotMaiMai:** 基于 [HoshinoBot](https://img.shields.io/github/license/Ice-Cirno/HoshinoBot) 并添加 [MaiMaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) 的模块并更新了pip依赖，目前在Ubuntu20.04上稳定运行。
 
 
 ## 功能介绍
